@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Yogesh Gupta 👋
 
-<!--
-**yogesh-gupta-dev/yogesh-gupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Laravel • React • Node.js  
+AI-powered web apps | API integrations | Clean code
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- PHP, Laravel, Yii2, Node.js
+- React, JavaScript
+- MySQL, MongoDB
+- OpenAI APIs, Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+- 🔥 Fuel Fiesta – Smart traffic-aware Flutter app
+- 🤖 AI Chatbot API – OpenAI-powered assistant
+- 📦 Inventory Management System – Laravel
